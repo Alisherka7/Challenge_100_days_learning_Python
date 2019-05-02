@@ -7,10 +7,10 @@ My friend suggested the HackerRank Web Site, and I was surprised because learnin
 than just reading boring books!<bgr>
 my first task was to return the word Hello World!<br>
 <hr>
-![1](https://user-images.githubusercontent.com/38793933/57083015-b9451d80-6cac-11e9-89a1-186987d0f1b5.jpg)
+<img src="https://user-images.githubusercontent.com/38793933/57083015-b9451d80-6cac-11e9-89a1-186987d0f1b5.jpg">
 <hr>
 since the beginning was too easy, I decided to continue to solve problems!<br>
-![2](https://user-images.githubusercontent.com/38793933/57083505-80597880-6cad-11e9-89e6-6706f31e35c0.jpg)<br>
-![3](https://user-images.githubusercontent.com/38793933/57083511-82bbd280-6cad-11e9-926d-7563ff0a8a80.jpg)<br>
+<img src="https://user-images.githubusercontent.com/38793933/57083505-80597880-6cad-11e9-89e6-6706f31e35c0.jpg"><br>
+<img src="https://user-images.githubusercontent.com/38793933/57083511-82bbd280-6cad-11e9-926d-7563ff0a8a80.jpg"><br>
 <hr>
 And I decided to dwell on this since today I spent most of my time studying the theory and the principle of work!.
