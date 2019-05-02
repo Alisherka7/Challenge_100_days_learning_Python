@@ -1,7 +1,7 @@
 # Challenge_100_days_learning_Python
 <h1 align="center">Hi guys!</h1> <br>
 <h1>Today I challenged myself to learn and practice 100 days of active programming language Python!</h1><br>
-<h3>1st-day</h3>
+<h3>1st-day, 2019-05-02</h3>
 I was looking for a source for a long time to learn the language faster and more efficiently.<br>
 My friend suggested the HackerRank Web Site, and I was surprised because learning a language with practice is better<br>
 than just reading boring books!<bgr>
