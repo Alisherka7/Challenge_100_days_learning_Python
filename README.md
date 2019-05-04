@@ -14,3 +14,12 @@ since the beginning was too easy, I decided to continue to solve problems!<br>
 <img src="https://user-images.githubusercontent.com/38793933/57083511-82bbd280-6cad-11e9-926d-7563ff0a8a80.jpg"><br>
 <hr>
 And I decided to dwell on this since today I spent most of my time studying the theory and the principle of work!.
+<hr>
+
+<h1>2st day, 2019-05-04</h1><br>
+since yesterday I could not practice because of the lack of time, today I decided to continue<br>
+Today in practice, I have arithmetic operators<br>
+<hr>
+<img src="https://user-images.githubusercontent.com/38793933/57178017-59bb4f00-6e1f-11e9-8e0c-cf35078145a0.jpg"><br>
+I read about arithmetic operations on the Internet and easily solved the problem.
+<img src="https://user-images.githubusercontent.com/38793933/57178422-89208a80-6e24-11e9-990a-b68652707c5a.jpg">
