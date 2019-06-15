@@ -23,3 +23,10 @@ Today in practice, I have arithmetic operators<br>
 <img src="https://user-images.githubusercontent.com/38793933/57178017-59bb4f00-6e1f-11e9-8e0c-cf35078145a0.jpg"><br>
 I read about arithmetic operations on the Internet and easily solved the problem.
 <img src="https://user-images.githubusercontent.com/38793933/57178422-89208a80-6e24-11e9-990a-b68652707c5a.jpg">
+<hr>
+I have not been there for a long time and could not post my work and projects to this blog.<br>
+I was preparing for exams, but now I have more time and full of energy to cheerfully continue the challenge<br>
+<h1>3st day, 2019-06-15</h1><br>
+today I studied recursion<br>
+further it becomes more and more difficult but it is very fascinating and interesting<br>
+<img src="https://user-images.githubusercontent.com/38793933/59549031-461a0280-8f0c-11e9-9845-5f5cd1f7ada2.jpg">
